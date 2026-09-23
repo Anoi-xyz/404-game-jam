@@ -4,7 +4,7 @@
   "team": ["Anoi-xyz"],
   "play_url": "https://signal-loss-drab.vercel.app/",
   "source_url": "https://github.com/Anoi-xyz/signal-loss",
-  "commit": "a2775e3",
+  "commit": "618664f",
   "genre": "other",
   "agent": "Gemini 3.6 (via Antigravity), directed with Claude",
   "models": ["Gemini 3.6 Flash", "Claude (design, spec, and debugging direction)"],
